@@ -9,6 +9,6 @@ public class Application {
     }
 
     public void startApp(){
-
+        System.out.println(dao.getCapital());
     }
 }
